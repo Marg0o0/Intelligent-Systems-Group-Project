@@ -1,6 +1,11 @@
-#Repository-pilot
+# Nome do Projeto
 
-primeiro repositório criado com o GitHub Destop
+Breve descrição do que faz e porquê.
 
-ir à pasta do repositorio ou clicar em show explorer? e criar uma pasta com readme.md
-garantir que não tem txt no fim do ficheiro como propriedades
+## 🚀 Instalação
+Passos para instalar:
+
+```bash
+git clone https://github.com/utilizador/repositorio.git
+cd repositorio
+pip install -r requirements.txt
